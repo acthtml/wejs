@@ -1,0 +1,11 @@
+{
+  "name": "@acthtml/wejs",
+  "version": "0.1.0",
+  "description": "A framework as drupal, but in react way.",
+  "keywords": ["drupal", "react"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
